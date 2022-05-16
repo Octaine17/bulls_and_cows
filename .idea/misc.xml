@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_account.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_game.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_number_symbols.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_rating.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_reg_enter.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/list_game.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/list_rating.xml" value="0.3625" />
+        <entry key="..\:/Users/Ruslan/Desktop/GameProject/app/src/main/res/layout/modal_end.xml" value="0.3625" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/drawable/button_main.xml" value="0.2985" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/drawable/button_main_press.xml" value="0.2985" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/drawable/button_shape.xml" value="0.2985" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/drawable/ic_del.xml" value="0.2985" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/drawable/ic_enter.xml" value="0.2985" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/account_activity.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_account.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_game.xml" value="0.33" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_number_symbols.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_rating.xml" value="0.25" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_reg_enter.xml" value="0.25" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/activity_settings.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/list_game.xml" value="0.35144927536231885" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/list_rating.xml" value="0.33" />
+        <entry key="..\:/WorkStudents/DiplomPlayBullsAndCowsAndroid/GameProject/app/src/main/res/layout/modal_end.xml" value="0.35144927536231885" />
+        <entry key="..\:/WorkStudents/PlayBullsAndCowsAndroid/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

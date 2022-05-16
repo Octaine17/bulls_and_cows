@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Быки и коровы</string>
+    <array name="list_symbols">
+        <item>2 символа</item>
+        <item>3 символа</item>
+        <item>4 символа</item>
+        <item>5 символов</item>
+        <item>6 символов</item>
+        <item>7 символов</item>
+        <item>8 символов</item>
+        <item>9 символов</item>
+        <item>10 символов</item>
+    </array>
+    <array name="list_reg_enter">
+        <item>Вход</item>
+        <item>Регистрация</item>
+    </array>
+</resources>
